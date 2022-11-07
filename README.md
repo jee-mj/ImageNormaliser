@@ -1,3 +1,9 @@
+This project has been discontinued as it provides no value to anyone or anything.
+
+Either the scope needs to be increased to cover all uses, or it needs to cease existing as this project would, in laymans terms, only serve to act as a script-like interface for Magick.NET. Any potential/further development regarding this project should be ceased immediately, and efforts should go towards developing / assisting development of Magick.NET.
+
+- MJ
+
 # ImageNormaliser
 
 This project is an open-source initiative.
